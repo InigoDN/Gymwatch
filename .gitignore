@@ -1,0 +1,46 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Signing files
+*.jks
+*.keystore
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file
+local.properties
+
+# Temp files
+repomix-output.xml
+
+# Android Studio / IntelliJ
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetSelector.xml
+.idea/.name
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
